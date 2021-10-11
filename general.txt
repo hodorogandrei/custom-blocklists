@@ -1,0 +1,82 @@
+##### Apple / iCloud Related
+
+#swscan.apple.com # Apple Software Update
+apple-finance.query.yahoo.com
+apsu.apple.com
+bugreport.apple.com
+configuration.apple.com
+cssubmissions-uat.corp.apple.com
+cssubmissions.apple.com
+dns.apple.com
+doh.apple.com
+doh.dns.apple.com
+gs-loc.apple.com
+idiagnostics.apple.com
+inappcheck.itunes.apple.com
+iphonediags.apple.com
+iphonesubmissions.apple.com
+itunes.apple.com
+mesu.apple.com
+metrics.apple.com
+metrics.icloud.com
+ocsp.apple.com
+ocsp2.apple.com
+qa2-int-swscan.apple.com
+radarsubmissions.apple.com
+turi.com # Apple Related
+xp.apple.com
+
+#### Amazon Related
+
+device-metrics-uk-2.amazon.com
+device-metrics-uk.amazon.co.uk
+device-metrics-uk.amazon.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+device-metrics.amazon.co.uk
+fls-eu.amazon.com
+mads.amazon-adsystem.com
+
+#### Google related
+
+chat.google.com
+firebaseinstallations.googleapis.com
+googleads.g.doubleclick.net
+gstaticadssl.l.google.com
+play.google.com
+play.googleapis.com
+ssl.google-analytics.com
+s.youtube.com
+
+#### Huawei related
+hicloud.com
+
+#### Microsoft related
+
+activity.windows.com
+browser.pipe.aria.microsoft.com
+events.data.microsoft.com
+mobile.pipe.aria.microsoft.com
+swiftkey.com
+swiftkey.net
+
+####################################################
+
+#### Log files servers
+
+log.tresorit.com
+logfiles.zoom.us
+us04logfiles.zoom.us
+
+#### OCSP related
+
+ocsp.digicert.com
+ocsp.pki.goog
+
+#### Debug servers
+online-matrix.net
+hg-statsd.setapp.com
+
+#### Trial check servers
+paddle.com
+paddleapi.com
