@@ -27,6 +27,7 @@ dns.api.rackspacecloud.com
 dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
+dns.apple.com
 dns.arapurayil.com
 dns.beta.gandi.net
 dns.blokada.org
@@ -90,6 +91,7 @@ doh-sg.blahdns.com
 doh.233py.com
 doh.360.cn
 doh.42l.fr
+doh.apple.com
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.armadillodns.net
@@ -101,6 +103,7 @@ doh.chi.ahadns.net
 doh.cleanbrowsing.org
 doh.crypto.sx
 doh.defaultroutes.de
+doh.dns.apple.com
 doh.dns.sb
 doh.dnslify.com
 doh.doh.my.id

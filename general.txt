@@ -7,9 +7,6 @@ bugreport.apple.com
 configuration.apple.com
 cssubmissions-uat.corp.apple.com
 cssubmissions.apple.com
-dns.apple.com
-doh.apple.com
-doh.dns.apple.com
 gs-loc.apple.com
 idiagnostics.apple.com
 inappcheck.itunes.apple.com
@@ -19,8 +16,6 @@ itunes.apple.com
 mesu.apple.com
 metrics.apple.com
 metrics.icloud.com
-ocsp.apple.com
-ocsp2.apple.com
 qa2-int-swscan.apple.com
 radarsubmissions.apple.com
 turi.com # Apple Related
@@ -72,6 +67,9 @@ us04logfiles.zoom.us
 
 ocsp.digicert.com
 ocsp.pki.goog
+ocsp-lb.apple.com.akadns.net
+ocsp.apple.com
+ocsp2.apple.com
 
 #### Debug servers
 online-matrix.net
